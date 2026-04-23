@@ -1,0 +1,4 @@
+Input Bit Assignments
+-----------------------
+00 Sync accumulator
+01 e-source stable

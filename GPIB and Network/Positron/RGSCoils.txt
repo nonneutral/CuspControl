@@ -1,0 +1,8 @@
+10.000000 10.000000 10.000000 
+Devices: 
+Dev5/port0/line0 
+Dev5/ao0 
+Dev5/port0/line1 
+Dev5/ao1 
+Dev5/port0/line2 
+Dev5/ao2

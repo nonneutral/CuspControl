@@ -1,0 +1,26 @@
+Camera	state (0,1)	txt	C:\CuspControl\GPIB and Network\Positron\CameraState.txt
+Slave	state (0,1)	txt	C:\CuspControl\GPIB and Network\Positron\SlaveState.txt
+Wait	inbit (0...7)	dac	0.1	inbit	-1	0	7
+Coils	buncher (A)	dac	0.1	ao0	4	0	10
+Coils	michishio (A)	dac	0.1	ao1	6.0	0	30
+Coils	acorn (A)	dac	0.1	ao5	4.0	0	20
+Coils	stacker (A)	dac	0.1	ao6	12	0	100
+Coils	T2 + T3 (A)	dac	0.1	ao2	6	0	80
+Coils	T4 (A)  	dac	0.1	ao3	20	0	80
+Coils	-------- (A)	dac	0.1	ao4	12	0	80
+RW	mode (0-9)	txt	C:\CuspControl\GPIB and Network\Positron\RWparams.txt
+RW	f_start (Hz)	txt	C:\CuspControl\GPIB and Network\Positron\RWparams.txt
+RW	f_stop (Hz)	txt	C:\CuspControl\GPIB and Network\Positron\RWparams.txt
+RW	amplitude (V)	txt	C:\CuspControl\GPIB and Network\Positron\RWparams.txt
+RW	phase dif (deg)	txt	C:\CuspControl\GPIB and Network\Positron\RWparams.txt
+RW	sweep time (s)	txt	C:\CuspControl\GPIB and Network\Positron\RWparams.txt
+HVpuls1	enable (0,1)	dac	0.1	ao8	0.1	0	1
+HVpuls1	amplitude (V)	dac	0.1	ao9	15	0	110
+HVpuls2	enable (0,1)	dac	0.1	ao10	0.1	0	1
+HVpuls2	amplitude (V)	dac	0.1	ao11	15	0	110
+HVpuls3	enable (0,1)	dac	0.1	ao12	0.1	0	1
+HVpuls3	amplitude (V)	dac	0.1	ao13	15	0	110
+MCP	front bias (V)	dac	4.0	ao14	400	0	750
+MCP	back bias (V)	dac	4.0	ao16	400	0	750
+MCP	phos bias (V)	dac	4.0	ao17	400	0	2000
+posdaq	mode (1 or 0)	txt	C:\CuspControl\GPIB and Network\Positron\Posdaq.txt

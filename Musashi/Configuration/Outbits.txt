@@ -1,0 +1,23 @@
+Output Bit Assignments
+-------------------------
+00 
+01 e-source in
+02 e-source out
+03 
+04 RW enable
+05 e-kick trig
+06 T-coil select
+07
+08 Sync trig for Cusp
+09 Cusp Exit GV open
+10 Cusp Exit GV close
+11 pbar xfer GV open
+12 pbar xfer GV close
+13 Bore heater off
+14 Musashi Entrance GV open
+15 dump pulse polarity
+16 Metal GV open
+17 Metal GV close
+18
+19
+20 pbarA cam trig

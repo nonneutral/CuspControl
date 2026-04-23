@@ -1,0 +1,44 @@
+C:\CuspControl\Cusp\DoDogSubVIs\ADCState.vi
+C:\CuspControl\GPIB and Network\Cusp\ADCState.txt
+ADC state (0,1,2)
+1
+C:\CuspControl\Cusp\DoDogSubVIs\CameraState.vi
+C:\CuspControl\GPIB and Network\Cusp\CameraState.txt
+Camera state (0,1)
+1
+C:\CuspControl\Cusp\DoDogSubVIs\Filament.vi
+C:\CuspControl\GPIB and Network\Cusp\esourceRampVoltandState.txt
+e- source enable (0,1)
+3
+C:\CuspControl\Cusp\DoDogSubVIs\GialinaCoil.vi
+C:\CuspControl\GPIB and Network\Cusp\GialinaCoil.txt
+Gialina current (A)
+1
+C:\CuspControl\Cusp\DoDogSubVIs\HigB.vi
+C:\CuspControl\GPIB and Network\Cusp\HigB.txt
+HigB current (A)
+1
+C:\CuspControl\Cusp\DoDogSubVIs\HVenable.vi
+C:\CuspControl\GPIB and Network\Cusp\HVpulser.txt
+HV pulse enable (0,1)
+3
+C:\CuspControl\Cusp\DoDogSubVIs\HVPulseTiming.vi
+C:\CuspControl\GPIB and Network\Cusp\HVPulseTiming.txt
+HV pulse delay (s)
+2
+C:\CuspControl\Cusp\DoDogSubVIs\Inbit.vi
+C:\CuspControl\GPIB and Network\Cusp\Inbit.txt
+Wait for Inbit # (0...7)
+1
+C:\CuspControl\Cusp\DoDogSubVIs\RWwrapper_BK.vi
+C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+RW enable (0,1)
+4
+C:\CuspControl\Cusp\DoDogSubVIs\SetMCP.vi
+C:\CuspControl\GPIB and Network\Cusp\MCPvolts.txt
+MCP front bias (V)
+3
+C:\CuspControl\Cusp\DoDogSubVIs\SlaveState.vi
+C:\CuspControl\GPIB and Network\Cusp\SlaveState.txt
+Slave state (0,1)
+1

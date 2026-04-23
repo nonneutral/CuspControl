@@ -1,0 +1,5 @@
+2.0 3.0 5.0
+Devices:
+Dev1/ao0
+Dev1/ao5 
+Dev1/ao2 

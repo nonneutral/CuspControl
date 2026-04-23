@@ -1,0 +1,27 @@
+Output Bit Assignments
+-------------------------
+00 (broken)
+01 FPS Dump/Stacker catch
+02 Enable FPS RW
+03 MCP In
+04 MCP out
+05 Stacker DS dump
+06 (do not use. false DS dump trigs?)
+07 Enable Stacker C7 RW
+08 
+09 
+10 
+11 
+12 Open FPS Exit GV
+13 Close FPS Exit GV
+14 Scope trig
+15 Cusp Sync
+16 TL tee GV open
+17 TL tee GV close
+18 Stacker US pulse polarity
+19 Stacker DS pulse polarity
+20 Buncher enable
+21 Michishio enable
+22 T2-T3 enable
+23 T4 enable
+24 Acorn coil enable

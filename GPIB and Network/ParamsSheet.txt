@@ -1,0 +1,9 @@
+e- block bias (V) [-9 V]	0.000000E+0
+e- filament bias (V)	0.000000E+0
+e- current (A) [0.3 A limit]	0.000000E+0
+e- ramp time (s)	0.000000E+0
+e- source ON (1 or 0)	0.000000E+0
+	0.000000E+0
+e+ accumulation time (s)	0.000000E+0
+e+ escape energy (eV)	0.000000E+0
+	0.000000E+0

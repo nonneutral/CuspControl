@@ -1,0 +1,4 @@
+0
+Devices: 
+Dev8/ao5
+Dev8/ao0

@@ -1,0 +1,32 @@
+ADC	mode (0,1,2)	txt	C:\CuspControl\GPIB and Network\Cusp\ADCState.txt
+Camera	state (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\CameraState.txt
+Slave	state (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\SlaveState.txt
+Wait	inbit (0...7)	dac	0.1	inbit	-1	0	7
+e-	burn time (s)	txt	C:\CuspControl\GPIB and Network\Cusp\esourceRampVoltandState.txt
+e-	filament (A)	txt	C:\CuspControl\GPIB and Network\Cusp\esourceRampVoltandState.txt
+e-	enable (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\esourceRampVoltandState.txt
+RW	mode (0-13)	txt	C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+RW	f_start (Hz)	txt	C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+RW	f_stop (Hz)	txt	C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+RW	amplitude (V)	txt	C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+RW	phase dif (deg)	txt	C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+RW	sweep time (s)	txt	C:\CuspControl\GPIB and Network\Cusp\RWparams.txt
+HVpuls1	polarity (0=n)	dac	0.1	ao0	0.2	0	1
+HVpuls1	enable (0,1)	dac	0.1	ao1	0.1	0	1
+HVpuls1	amplitude (V)	dac	0.1	ao2	15	0	110
+HVptime	Mush on (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\HVpulseTiming.txt
+HVptime	Posi on (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\HVpulseTiming.txt
+HVptime	Cusp on (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\HVpulseTiming.txt
+HVptime	Posi width (s)	txt	C:\CuspControl\GPIB and Network\Cusp\HVpulseTiming.txt
+HVptime	Cusp delay (s)	txt	C:\CuspControl\GPIB and Network\Cusp\HVpulseTiming.txt
+HVptime	Cusp width (s)	txt	C:\CuspControl\GPIB and Network\Cusp\HVpulseTiming.txt
+Dcoils	Higaki A  (A)	dac	0.5	ao8	12	0	60
+Dcoils	Higaki B,C (A)	dac	0.5	ao9	9	0	45
+Horn	Klaxon (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\Klaxon.txt
+AMT	posAMT (0,1)	txt	C:\CuspControl\GPIB and Network\Cusp\posAMT.txt
+Scoop	Acquisitions	txt	C:\CuspControl\GPIB and Network\Cusp\ScoopAcqs.txt
+MCP	front bias (V)	dac	4.0	ao5	15	-130	130
+MCP	back bias (V)	dac	4.0	ao6	200	0	1000
+MCP	phos bias (V)	dac	4.0	ao7	500	0	3500
+FI	US bias (V)	dac	1.0	ao10	200	0	800
+FI	DS bias (V)	dac	1.0	ao11	200	0	800

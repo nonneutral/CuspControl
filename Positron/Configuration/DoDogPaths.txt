@@ -1,0 +1,28 @@
+C:\CuspControl\Positron\DoDogSubVIs\SourceCoilControl_Wrapper.vi
+C:\CuspControl\GPIB and Network\SourceCoils.txt
+Source Coils enable (1 or 0)
+1
+C:\CuspControl\Positron\DoDogSubVIs\RGSBias_Wrapper.vi
+C:\CuspControl\GPIB and Network\RGSBias.txt
+Moderator Bias (V)
+1
+C:\CuspControl\Positron\DoDogSubVIs\HigakiBSetU-I_Wrapper.vi
+C:\CuspControl\GPIB and Network\HigakiB.txt
+Higaki B charge (1 or 0)
+1
+C:\CuspControl\Positron\DoDogSubVIs\TLSetAllVoltages_Wrapper.vi
+C:\CuspControl\GPIB and Network\TL.txt
+Transfer Line enable (1 or 0)
+1
+C:\CuspControl\Positron\DoDogSubVIs\TLSetExitCoil_Wrapper.vi
+C:\CuspControl\GPIB and Network\TL.txt
+Only Extr. Coil enable -> on MCP (1 or 0)
+1
+C:\CuspControl\Positron\DoDogSubVIs\RGSCoilControl_Wrapper.vi
+C:\CuspControl\GPIB and Network\RGSCoils.txt
+RGS Coils enable (1 or 0)
+1
+C:\CuspControl\Positron\DoDogSubVIs\HVpulser_Wrapper.vi
+C:\CuspControl\GPIB and Network\HVpulser.txt
+Pulser voltage (divided by 160)
+1

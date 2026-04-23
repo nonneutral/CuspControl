@@ -1,0 +1,32 @@
+Input Bit Assignments
+-------------------------
+01 pbar sync
+02 e+ sync
+
+Output Bit Assignments
+-------------------------
+00 DAQ trigger
+01 HV pulser trigger
+02 
+03 MCP select
+04 MCP in
+05 MCP out
+06 e- source select
+07 e- source insert
+08 e- source remove
+09 
+10 Relays - u5
+11 Relays - u10
+12 AC bypass relay - u13
+13 Brescia trigger
+14 
+15 bk4054b gate - u5
+16 bk4054b gate - u10
+17 Exit GV open
+18 Exit GV close
+19 Scoop trig
+20 MUSH sync
+21 Entrance GV open
+22 Entrance GV close
+23 BGO gate
+24 

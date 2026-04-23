@@ -1,0 +1,8 @@
+[My Computer]
+My Computer="localhost"
+
+[pcad3'067]
+pcad3'067="169.254.5.37"
+
+[RT-PXI-positron]
+RT-PXI-positron="169.254.48.3"

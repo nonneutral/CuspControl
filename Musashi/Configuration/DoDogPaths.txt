@@ -1,0 +1,24 @@
+C:\CuspControl\Musashi\DoDogSubVIs\DAQmode.vi
+C:\CuspControl\GPIB and Network\Musashi\DAQmode.txt
+DAQ mode (0...4)
+1
+C:\CuspControl\Musashi\DoDogSubVIs\HVenableM.vi
+C:\CuspControl\GPIB and Network\Musashi\HVpulser.txt
+HV pulse enable (0,1)
+3
+C:\CuspControl\Musashi\DoDogSubVIs\HVPulseTimingM.vi
+C:\CuspControl\GPIB and Network\Musashi\HVPulseTiming.txt
+HV pulse delay (s)
+2
+C:\CuspControl\Musashi\DoDogSubVIs\InbitM.vi
+C:\CuspControl\GPIB and Network\Musashi\Inbit.txt
+Wait for Inbit # (0...7)
+1
+C:\CuspControl\Musashi\DoDogSubVIs\RWwrapper_BKM.vi
+C:\CuspControl\GPIB and Network\Musashi\RWparams.txt
+RW mode (0...3)
+6
+C:\CuspControl\Musashi\DoDogSubVIs\SlavestateM.vi
+C:\CuspControl\GPIB and Network\Musashi\Slavestate.txt
+Slave state (0...x)
+1
